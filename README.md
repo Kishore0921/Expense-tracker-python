@@ -1,4 +1,5 @@
 # Expense-tracker-python
-# I created this project in my 2nd SEM
+# This project was my 2nd SEM python project
 A secure, user-based desktop Expense Tracker application built using Python, Tkinter, and SQLite, designed to help users efficiently manage their daily expenses, monthly income, and yearly financial balance with visual insights.<br>
+
 
